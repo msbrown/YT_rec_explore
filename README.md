@@ -18,7 +18,9 @@ Used dependencies:
 
 ## Example of usage:
 
-python2.7 follow-youtube-recommendations.py  --query="global warming,vaccines,nasa" --searches=4 --branch=4 --depth=4 --name="science"
+python follow-youtube-recommendations.py  --query="вибори" --searches=6 --branch=3 --depth=3 --name="election"
+
+#Note: Updated for python 3.6
 
 * --query: query that is made on youtube
 * --searches: number of search results from the query to start with
